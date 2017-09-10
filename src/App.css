@@ -1,0 +1,13 @@
+.img-responsive{
+	width: 100%;
+	height: auto;
+}
+.well{
+	position: relative;
+}
+.SearchBar{
+	margin-bottom: 30px;
+}
+.ArtistList h3{
+	margin-top: 0;
+}
